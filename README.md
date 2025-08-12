@@ -28,15 +28,15 @@
     Design Patterns
   </summary>
 </details>
+<details>
   <summary>
     Agile Methodology
   </summary>
-<details>
 </details>
 <details>
-  <summmary>
+  <summary>
     API Development
-  </summmary>
+  </summary>
 </details>  
 <details>
   <summary>
