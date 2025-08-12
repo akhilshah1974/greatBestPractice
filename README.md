@@ -1,9 +1,49 @@
 <details>
   <summary>
+    Green Field Vs Brown Field Development
+  </summary>
+</details>
+<details>
+  <summary>
+    Microservice Architecture
+  </summary>
+</details>
+<details>
+  <summary>
+    Event Driven Architecture
+  </summary>
+</details>
+<details>
+  <summary>
+    Service Oriented Architecture
+  </summary>
+</details>
+<details>
+  <summary>
+    Enterprise Architecture
+  </summary>
+</details>
+<details>
+  <summary>
+    Design Patterns
+  </summary>
+</details>
+  <summary>
+    Agile Methodology
+  </summary>
+<details>
+</details>
+<details>
+  <summmary>
+    API Development
+  </summmary>
+</details>  
+<details>
+  <summary>
     Steps to implement database project using JPA and SpringBoot
   </summary>
 </details>
-<details>  
+<details>
   <summary>
     Steps to implement JMS using SpringBoot
   </summary>
