@@ -74,7 +74,9 @@
   </summary>
 </details>
 <details>
-  Steps to implment ActiveMQ in microservices
+  <summary>
+    Steps to implment ActiveMQ in microservices
+  </summary> 
 </details>
 <details>
   <summary>
