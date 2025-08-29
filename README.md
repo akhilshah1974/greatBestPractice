@@ -2,6 +2,15 @@
   <summary>
     Green Field Vs Brown Field Development
   </summary>
+  # Green Field development
+  ## New development from scratch
+    - new infrastructure
+    - new tech stack
+    - etc.
+  - in many situations needs lots of efforts
+  - many thinking and decisioning sessons, POCs
+  - etc.
+  </text>
 </details>
 <details>
   <summary>
