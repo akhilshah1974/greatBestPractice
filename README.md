@@ -1,8 +1,9 @@
+<div align="left">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <details>
   <summary>
-   <div align="left">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
-   </div>
+     <h1>Green Field Vs Brown Field Development</h1>
   </summary>
   ### Green Field development
   ## New development from scratch
