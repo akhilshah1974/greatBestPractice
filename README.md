@@ -83,3 +83,8 @@
     Steps to implement Swagger API (openAPI) in SpringBoot Microservices
   </summary>
 </details>
+<details>
+  <summary>
+    Utilize AI in Microservices
+  </summary>
+</details>
