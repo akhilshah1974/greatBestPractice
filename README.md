@@ -2,6 +2,15 @@
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
 </div> -->
 <details>
+    <summary>Design Thinking</summary>
+</details>
+<details>
+    <summary>Data Structure</summary>
+</details>
+<details>
+    <summary>AI</summary>
+</details>
+<details>
   <summary>
      <h1>Green Field Vs Brown Field Development</h1>
   </summary>
