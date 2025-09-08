@@ -3,6 +3,31 @@
 </div> -->
 <details>
     <summary>Design Thinking</summary>
+    <table>
+        <tr>
+            <th>5 P's of design thinking</th>
+            <th>4 C's of design thinkimg</th>
+        </tr>
+        <tr>
+            <td valign="top">
+                <ol>
+        <li>Empathize</li>
+        <li>Define</li>
+        <li>Ideate</li>
+        <li>Prototype</li>
+        <li>Test</li>
+    </ol>
+                </td>
+                <td valign="top">
+    <ol>
+        <li>Consistency</li>
+        <li>Continuity</li>
+        <li>Context</li>
+        <li>Complementary</li>        
+    </ol>
+                </td>
+            </tr>
+    </table>
 </details>
 <details>
     <summary>Data Structure</summary>
