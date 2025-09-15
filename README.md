@@ -3,6 +3,11 @@
 </div> -->
 <details>
     <summary>Design Thinking</summary>
+    <br>
+    In every phase of software development life cycle, there is som thinking process involved to make/deliver the quality product/fulfil the user/business requriements.
+    To produce the the quality product, at each phase of SDLC, the step by step best fit approch need to followed.
+    Design thinking helps architects/engineers to come up with all the possible approaches/soultions, and find the best fit solution/approach to solve the user/business problem.
+    </br>
     <table>
         <tr>
             <th>5 P's of design thinking</th>
