@@ -138,3 +138,9 @@
     Utilize AI in Microservices
   </summary>
 </details>
+<details>
+    <summary>
+        HashiCorp Terraform
+    </summary>
+    see documentation [here](terraform/README.md)
+</details>
