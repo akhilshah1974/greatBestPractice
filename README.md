@@ -142,5 +142,5 @@
     <summary>
         HashiCorp Terraform
     </summary>
-    see documentation <a name="terraform"> terraform/README.md </a>
+    see documentation [here](terraform/README.md)
 </details>
