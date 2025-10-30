@@ -142,5 +142,5 @@
     <summary>
         HashiCorp Terraform
     </summary>
-    <a href="terraform/README.md">here</a>
+    click <a href="terraform/README.md">here</a> to learn about Terraform
 </details>
