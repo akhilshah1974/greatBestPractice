@@ -20,15 +20,15 @@ Destroy is used to remove all the resources that were created by terraform.
 ## KEY FEATURES AND BENEFITS 
 ### IaC (infrastructure as Code): 
 Treats infrastructure configuration as a code, 
-Allowing for version control. Collobartion and consistency.
+Allowing for version control. Collobartion and Consistency.
 
 ### Multi-Cloud support: 
 works with a wide range of platforms and services, including AWS, Azure, Google Cloud, and IBM Cloud, by using various providers.
 
-### Automation
+### Automation:
 Automates the provisioning and management of infrastructure, saving time and reducing manual effort.
 
-### Cost Optimization
+### Cost Optimization:
 Helps reduce cloud spend by identifying and eliminating underutilized or unnecessary resources.
 
 ## Risk reduction: 
