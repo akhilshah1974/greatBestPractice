@@ -128,3 +128,5 @@ output "s3_bucket_arn" {
   value = module.my_s3_bucket.bucket_arn
 }
 ```
+$ Reference Links
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-create
